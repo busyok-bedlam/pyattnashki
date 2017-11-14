@@ -1,0 +1,10 @@
+/*#canvas{
+	width: 200;
+	height: 200;
+	margin: 100px 100px;
+}*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
